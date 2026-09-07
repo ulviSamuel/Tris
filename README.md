@@ -7,6 +7,9 @@ Tris is a Java Swing desktop tic-tac-toe game with local graphical and audio ass
 ![Swing](https://img.shields.io/badge/UI-Swing-6f42c1?style=flat-square)
 ![Year](https://img.shields.io/badge/Year-2022-lightgrey)
 
+> [!NOTE]
+> This repository contains an academic project originally developed during earlier programming studies. It is preserved as a record of the technical knowledge, design decisions and development experience acquired at the time.
+
 ## Overview
 
 The application opens a fixed-size game window, presents an animated welcome and loading sequence, and then provides a main menu for selecting either a local 1-versus-1 match or a 1-versus-bot match. Game state is maintained in a 3×3 board, with visual symbols, turn timers, pause controls, win-line animations, draw handling, and a looping title sound.
